@@ -1,4 +1,4 @@
-# Experiment 3
+# Experiment 2
 
 ## Aim of the Experiment
 Write a C program to develop a simple data link layer that performs the flow control using the sliding window protocol, and loss recovery using the Go-Back-N mechanism.
@@ -17,5 +17,6 @@ In Go-Back-N ARQ, the frames are numbered sequentially as Go-Back-N ARQ sends th
 
 1.Firstly, the sender will send the first n(window size) frames to the receiver, and now the sender is expected to receive the acknowledgment of the 0th frame. 2.Once the transfer of window size is completed, the sender receives the acknowledgment of the first frame, i.e., packet no1. As the acknowledgment receives, the sender sends the next packet. 3.Now, the sender receives the acknowledgment of packet 2. After receiving the acknowledgment for packet 2, the sender sends the next packet. By repeating these steps we conclude the total transmissions required.
 ## Output
+![output](CRC.png)
 
 

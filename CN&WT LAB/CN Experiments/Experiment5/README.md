@@ -12,3 +12,4 @@ Select any edge of minimal value that is not a loop. This is the first edge of T
 
 ## Output
 ### Broadcast tree
+![output](Broadcast_tree.png)
