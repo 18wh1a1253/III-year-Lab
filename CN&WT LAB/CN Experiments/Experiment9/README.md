@@ -21,5 +21,4 @@ Step 7: Finally you need to print the original message.
 Step 8: Stop
 
 ## Output
-### Character Count:
 ![output](Frame_Sorting.png)
