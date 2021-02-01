@@ -21,4 +21,5 @@ It discovers that a link to a neighbor has gone down.
 Formula for calculation: Dx(y) = min { C(x,v) + Dv(y), Dx(y) } for each node y ∈ N
  
 ## Output
-[!output(distance_vector.png)]
+![output](distance_vector.png)
+
