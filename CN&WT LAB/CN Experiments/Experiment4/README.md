@@ -1,4 +1,4 @@
-# Experiment 1
+# Experiment 4
 
 ## Aim of the Experiment
 Write a C program to implement Dijsktra’s algorithm to compute the shortest path through a network.
