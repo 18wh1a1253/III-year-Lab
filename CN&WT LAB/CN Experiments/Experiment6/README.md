@@ -1,4 +1,4 @@
-# Experiment 1
+# Experiment 6
 
 ## Aim of the Experiment
 Write a C program to implement distance vector routing algorithm for obtaining routing tables at each node.
